@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Api" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#FFC107</item>
+        <item name="colorPrimaryVariant">#FFC107</item>
+    </style>
+    <style name="Theme.Api" parent="Base.Theme.Api" />
+</resources>
